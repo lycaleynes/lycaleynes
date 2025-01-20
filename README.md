@@ -25,6 +25,6 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/lycaleynes
