@@ -1,13 +1,13 @@
 <h1>Hi, I'm Lyconia! <br/><a href="https://www.linkedin.com/in/lycaleynes/">Aspiring Security Analyst</a></h1>
 
-<h2> 👋🏻 About Me:</h2>
+<h2> 👋🏻 About me:</h2>
 
 Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure how to say it, it’s pronounced <i>Lie</i>—like when someone isn’t telling the truth—and <i>Ka</i>. I know it can be tricky for some people, so don’t even worry about it if you get it wrong! <br/><br/>A little about me: I come from the beautiful and culturally rich islands of the Philippines. Growing up there shaped so much of who I am today. In 2021, right in the midst of the chaotic COVID pandemic, I made the big move to the United States. It was a challenging transition, to say the least. Adjusting to a completely new environment during such a turbulent time wasn’t easy, but over time, I’ve found my footing and connected with people who bring joy and positivity into my life. <br/><br/>Ever since I was young, I’ve always had a fascination with technology. Whether it was tinkering with gadgets or exploring how things worked, that curiosity stayed with me as I grew older. It’s what led me to pursue a career in Cybersecurity—a field where I can combine my passion for technology with the opportunity to protect and innovate.
 
 <h2> 👩🏻‍💻 Cybersecurity Projects:</h2>
 
 - <b>HomeLab</b>
-  - [Installing Oracle VirtalBox](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [How to Install Oracle VirtalBox](https://github.com/lycaleynes/OracleVirtualBox)
  
 <h2> 📝 Certifications:</h2>
 
@@ -23,7 +23,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 - [ITIL® 4 Foundation](https://drive.google.com/file/d/1tSGPxam_jJW32MQVJuok6i7ESY3OPIqF/view)
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000639436/dck9kn7jmv)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳🏻 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
 
