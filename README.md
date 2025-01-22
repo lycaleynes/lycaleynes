@@ -12,6 +12,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
   - [Legal Analysis](https://github.com/lycaleynes/Legal-Analysis)
   - [Ethics and Cybersecurity](https://github.com/lycaleynes/Ethics-and-Cybersecurity)
   - [NMAP and Wireshark](https://github.com/lycaleynes/NMAP-and-Wireshark)
+  - [WLAN and Mobile Security Plan](https://github.com/lycaleynes/WLAN-and-Mobile-Security-Plan)
  
 <h2> 📄 Certifications:</h2>
 
