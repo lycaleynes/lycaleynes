@@ -7,7 +7,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 <h2> 👩🏻‍💻 Cybersecurity Projects:</h2>
 
 - <b>HomeLab</b>
-  - [How to Install Oracle VirtualBox](https://github.com/lycaleynes/OracleVirtualBox)
+  - [Installing Oracle VirtualBox](https://github.com/lycaleynes/OracleVirtualBox)
 - <b>School Projects</b>
   - [Legal Analysis](https://github.com/lycaleynes/Legal-Analysis)
   - [Ethics and Cybersecurity](https://github.com/lycaleynes/Ethics-and-Cybersecurity)
