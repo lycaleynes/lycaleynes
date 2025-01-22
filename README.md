@@ -14,6 +14,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
   - [NMAP and Wireshark](https://github.com/lycaleynes/NMAP-and-Wireshark)
   - [WLAN and Mobile Security Plan](https://github.com/lycaleynes/WLAN-and-Mobile-Security-Plan)
   - [Investigative Plan of Action](https://github.com/lycaleynes/Investigative-Plan-of-Action)
+  - [Forensic Investigation](https://github.com/lycaleynes/Forensic-Investigation)
  
 <h2> 📄 Certifications:</h2>
 
