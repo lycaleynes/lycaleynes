@@ -8,8 +8,10 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 
 - <b>HomeLab</b>
   - [How to Install Oracle VirtalBox](https://github.com/lycaleynes/OracleVirtualBox)
+- <b>School Projects</b>
+  - [Legal Analysis](https://github.com/lycaleynes/Legal-Analysis)
  
-<h2> 📝 Certifications:</h2>
+<h2> 📄 Certifications:</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/58589332-186f-4925-b703-bd7ffe4e9d16)
 - [CompTIA Network+](https://www.credly.com/badges/2ec93ab1-d3a3-403e-a585-c61b520d50f6)
