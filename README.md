@@ -10,6 +10,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
   - [How to Install Oracle VirtalBox](https://github.com/lycaleynes/OracleVirtualBox)
 - <b>School Projects</b>
   - [Legal Analysis](https://github.com/lycaleynes/Legal-Analysis)
+  - [Ethics and Cybersecurity](https://github.com/lycaleynes/Ethics-and-Cybersecurity)
  
 <h2> 📄 Certifications:</h2>
 
