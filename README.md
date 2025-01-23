@@ -18,7 +18,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 - <b>Investigations</b>
   - [Investigative Plan of Action](https://github.com/lycaleynes/Investigative-Plan-of-Action)
   - [Forensic Investigation](https://github.com/lycaleynes/Forensic-Investigation)
-- <b>Incidence Response</b>
+- <b>Incident Response</b>
   - [Analysis Response](https://github.com/lycaleynes/Analysis-Response)
  
 <h2> 📄 Certifications:</h2>
