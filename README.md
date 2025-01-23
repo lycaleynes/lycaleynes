@@ -8,13 +8,17 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 
 - <b>HomeLab</b>
   - [Installing Oracle VirtualBox](https://github.com/lycaleynes/OracleVirtualBox)
-- <b>School Projects</b>
+- <b>Legal and Ethical Analysis</b>
   - [Legal Analysis](https://github.com/lycaleynes/Legal-Analysis)
   - [Ethics and Cybersecurity](https://github.com/lycaleynes/Ethics-and-Cybersecurity)
+- <b>Security Tools</b>
   - [NMAP and Wireshark](https://github.com/lycaleynes/NMAP-and-Wireshark)
+- <b>Security Planning</b>
   - [WLAN and Mobile Security Plan](https://github.com/lycaleynes/WLAN-and-Mobile-Security-Plan)
+- <b>Investigations</b>
   - [Investigative Plan of Action](https://github.com/lycaleynes/Investigative-Plan-of-Action)
   - [Forensic Investigation](https://github.com/lycaleynes/Forensic-Investigation)
+- <b>Incidence Response</b>
   - [Analysis Response](https://github.com/lycaleynes/Analysis-Response)
  
 <h2> 📄 Certifications:</h2>
