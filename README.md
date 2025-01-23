@@ -18,8 +18,6 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
   - [Forensic Investigation](https://github.com/lycaleynes/Forensic-Investigation)
 - <b>Incident Response</b>
   - [Analysis Response](https://github.com/lycaleynes/Analysis-Response)
-- <b>HomeLab</b>
-  - [Installing Oracle VirtualBox](https://github.com/lycaleynes/OracleVirtualBox)
  
 <h2> 📄 Certifications:</h2>
 
