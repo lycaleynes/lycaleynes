@@ -12,6 +12,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 - <b>Security Tools</b>
   - [Nmap and Wireshark](https://github.com/lycaleynes/NMAP-and-Wireshark)
   - [Splunk](https://github.com/lycaleynes/Splunk)
+  - [Nessus](https://github.com/lycaleynes/Nessus)
 - <b>Security Planning</b>
   - [WLAN and Mobile Security Plan](https://github.com/lycaleynes/WLAN-and-Mobile-Security-Plan)
 - <b>Investigations</b>
