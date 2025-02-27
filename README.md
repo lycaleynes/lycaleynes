@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lyconia! <br/><a href="https://www.linkedin.com/in/lycaleynes/">Aspiring Security Analyst</a></h1>
+<h1>Hi, I'm Lyconia! <br/><a href="https://www.linkedin.com/in/lycaleynes/">Security Analyst</a></h1>
 
 <h2> 👋🏻 About me:</h2>
 
