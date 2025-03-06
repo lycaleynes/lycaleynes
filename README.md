@@ -13,11 +13,11 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
   - [Nmap and Wireshark](https://github.com/lycaleynes/NMAP-and-Wireshark)
   - [Splunk](https://github.com/lycaleynes/Splunk)
   - [Nessus](https://github.com/lycaleynes/Nessus)
+  - [Autopsy](https://github.com/lycaleynes/Forensic-Investigation)
 - <b>Security Planning</b>
   - [WLAN and Mobile Security Plan](https://github.com/lycaleynes/WLAN-and-Mobile-Security-Plan)
 - <b>Investigations</b>
   - [Investigative Plan of Action](https://github.com/lycaleynes/Investigative-Plan-of-Action)
-  - [Forensic Investigation](https://github.com/lycaleynes/Forensic-Investigation)
 - <b>Incident Response</b>
   - [Analysis Response](https://github.com/lycaleynes/Analysis-Response)
  
