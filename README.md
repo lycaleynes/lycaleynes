@@ -32,6 +32,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 - [CompTIA IT Operations Specialist – CIOS](https://www.credly.com/badges/f4ef57f6-521d-4959-b7d0-e9b38596f3b5)
 - [CompTIA Secure Infrastructure Specialist – CSIS](https://www.credly.com/badges/3b1a69de-71be-4cb4-9c55-06557b100c70)
 - [CompTIA Security Analytics Professional – CSAP](https://www.credly.com/badges/ce656b31-b15a-4bdd-a04a-5e56e10d3188/linked_in_profile)
+- [SSCP | Associate of ISC2](https://www.credly.com/badges/22c578b6-0bce-4d15-95df-5dccc38878bf/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/751248f5-ddf0-4fac-b43f-e4845d6027e3)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/lyconialeynes-7181/credentials/f1a2a6e8ebffa7c1?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [ITIL® 4 Foundation](https://drive.google.com/file/d/1tSGPxam_jJW32MQVJuok6i7ESY3OPIqF/view)
