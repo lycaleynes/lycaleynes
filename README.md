@@ -56,19 +56,22 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
   <a href="https://www.credly.com/badges/efb5f21d-3462-4c4f-b407-8ba94155b732"><img src="https://i.imgur.com/A7AVRbp.png" alt="Security+" width="100"/></a>
   <a href="https://www.credly.com/badges/572c23cd-b62c-463e-942b-10195d8eb1eb"><img src="https://i.imgur.com/HdhgLDk.png" alt="CySA+" width="100"/></a>
   <a href="https://www.credly.com/badges/8ca9ee59-c007-43d7-8ef7-c648a713b905"><img src="https://i.imgur.com/RC5d2UW.png" alt="Pentest+" width="100"/></a>
-</p>
-<p align="center">
   <a href="https://www.credly.com/badges/2ee056d1-6b42-4460-a4ce-6331ddda516e"><img src="https://i.imgur.com/AoujL5I.png" alt="Cloud Essentials+" width="100"/></a>
   <a href="https://www.credly.com/badges/385e0cc9-1b19-4149-a348-b0897595ad7c"><img src="https://i.imgur.com/mjSVbkK.png" alt="Project+" width="100"/></a>
-  <a href="https://www.credly.com/badges/f4ef57f6-521d-4959-b7d0-e9b38596f3b5"><img src="https://i.imgur.com/ktIkofN.png" alt="CIOS" width="100"/></a>
-  <a href="https://www.credly.com/badges/3b1a69de-71be-4cb4-9c55-06557b100c70"><img src="https://i.imgur.com/J0zYnrp.png" alt="CSIS" width="100"/></a>
 </p>
 <p align="center">
+  <a href="https://www.credly.com/badges/f4ef57f6-521d-4959-b7d0-e9b38596f3b5"><img src="https://i.imgur.com/ktIkofN.png" alt="CIOS" width="100"/></a>
+  <a href="https://www.credly.com/badges/3b1a69de-71be-4cb4-9c55-06557b100c70"><img src="https://i.imgur.com/J0zYnrp.png" alt="CSIS" width="100"/></a>
   <a href="https://www.credly.com/badges/ce656b31-b15a-4bdd-a04a-5e56e10d3188"><img src="https://i.imgur.com/6IZB50S.png" alt="CSAP" width="100"/></a>
+  <a href="https://www.credly.com/badges/eeee07f5-375f-4c56-a05f-09e98fde09ff"><img src="https://i.imgur.com/ImIFM3J.png" alt="CNVP" width="100"/></a>
+  <a href="https://www.credly.com/badges/e88a9fb5-f07c-444a-a4ac-0ff0a85506ea"><img src="https://i.imgur.com/ORVJU2p.png" alt="CNSP" width="100"/></a>
+</p>
+<p align="center">
   <a href="https://www.credly.com/badges/22c578b6-0bce-4d15-95df-5dccc38878bf"><img src="https://i.imgur.com/rN1S100.png" alt="SSCP" width="100"/></a>
   <a href="https://drive.google.com/file/d/1tSGPxam_jJW32MQVJuok6i7ESY3OPIqF/view"><img src="https://i.imgur.com/g2oPhYn.png" alt="ITIL" width="100"/></a>
   <a href="https://www.credly.com/badges/751248f5-ddf0-4fac-b43f-e4845d6027e3"><img src="https://i.imgur.com/YKNqDCw.png" alt="AWS" width="100"/></a>
   <a href="https://learn.microsoft.com/en-us/users/lyconialeynes-7181/credentials/f1a2a6e8ebffa7c1"><img src="https://i.imgur.com/K5ijXBU.png" alt="Azure" width="100"/></a>
+  <a href="https://www.credly.com/badges/22c578b6-0bce-4d15-95df-5dccc38878bf"><img src="https://i.imgur.com/tqN0GHW.png" alt="Linux Essentials" width="100"/></a>
 </p>
 
 
