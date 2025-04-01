@@ -32,7 +32,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 <details>
   <summary><b>Security Planning</b></summary>
   <ul>
-    <li><a href="https://github.com/lycaleynes/WLAN-and-Mobile-Security-Plan" target="_blank">WLAN and Mobile Security Plan</a> - Identified wireless and mobile vulnerabilities and recommended solutions to reduce security risks.</li>
+    <li><a href="https://github.com/lycaleynes/WLAN-and-Mobile-Security-Plan" target="_blank">WLAN and Mobile Security Plan</a> - Identified mobile risks and proposed fixes.</li>
   </ul>
 </details>
 
