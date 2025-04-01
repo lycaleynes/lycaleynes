@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Lyca!<br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Security+Enthusiast;Lifelong+Learner;Cybersecurity+Professional" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Security+Enthusiast;Lifelong+Learner;Cybersecurity+Professional;SOC+Analyst;Privacy+Advocate;Incident+Responder;Risk+Mitigator;Blue+Team+Specialist" alt="Typing SVG"/>
 </p>
 
 
