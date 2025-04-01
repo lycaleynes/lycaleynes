@@ -21,32 +21,32 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 <details>
   <summary><b>Security Tools</b></summary>
   <ul>
-    <li><a href="https://github.com/lycaleynes/Nmap" target="_blank">Nmap</a></li>
-    <li><a href="https://github.com/lycaleynes/Wireshark" target="_blank">Wireshark</a></li>
-    <li><a href="https://github.com/lycaleynes/Splunk" target="_blank">Splunk</a></li>
-    <li><a href="https://github.com/lycaleynes/Nessus" target="_blank">Nessus</a></li>
-    <li><a href="https://github.com/lycaleynes/Forensic-Investigation" target="_blank">Autopsy</a></li>
+    <li><a href="https://github.com/lycaleynes/Nmap" target="_blank">Nmap</a> - Used Nmap to scan a network, identified key vulnerabilities, and recommended security improvements.</li>
+    <li><a href="https://github.com/lycaleynes/Wireshark" target="_blank">Wireshark</a> - Analyzed network traffic with Wireshark and recommended security fixes.</li>
+    <li><a href="https://github.com/lycaleynes/Splunk" target="_blank">Splunk</a> - Created a Splunk install guide and used it to analyze DNS logs for detecting network threats.</li>
+    <li><a href="https://github.com/lycaleynes/Nessus" target="_blank">Nessus</a> - Used Nexus Essentials to scan for vulnerabilities and recommend fixes to secure the network.</li>
+    <li><a href="https://github.com/lycaleynes/Forensic-Investigation" target="_blank">Autopsy</a> - Used Autopsy to examine a storage device for policy violations and documented findings in a report.</li>
   </ul>
 </details>
 
 <details>
   <summary><b>Security Planning</b></summary>
   <ul>
-    <li><a href="https://github.com/lycaleynes/WLAN-and-Mobile-Security-Plan" target="_blank">WLAN and Mobile Security Plan</a></li>
+    <li><a href="https://github.com/lycaleynes/WLAN-and-Mobile-Security-Plan" target="_blank">WLAN and Mobile Security Plan</a> - Identified wireless and mobile vulnerabilities and recommended solutions to reduce security risks.</li>
   </ul>
 </details>
 
 <details>
   <summary><b>Investigations</b></summary>
   <ul>
-    <li><a href="https://github.com/lycaleynes/Investigative-Plan-of-Action" target="_blank">Investigative Plan of Action</a></li>
+    <li><a href="https://github.com/lycaleynes/Investigative-Plan-of-Action" target="_blank">Investigative Plan of Action</a> - Created a digital forensics plan to guide evidence analysis in an investigation.</li>
   </ul>
 </details>
 
 <details>
   <summary><b>Incident Response</b></summary>
   <ul>
-    <li><a href="https://github.com/lycaleynes/Analysis-Response" target="_blank">Analysis Response</a></li>
+    <li><a href="https://github.com/lycaleynes/Analysis-Response" target="_blank">Analysis Response</a> - Assessed a security incident and developed a response plan.</li>
   </ul>
 </details>
  
