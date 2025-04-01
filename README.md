@@ -13,8 +13,8 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 <details>
   <summary><b>Legal and Ethical Analysis</b></summary>
   <ul>
-    <li><a href="https://github.com/lycaleynes/Legal-Analysis" target="_blank">Legal Analysis</a></li>
-    <li><a href="https://github.com/lycaleynes/Ethics-and-Cybersecurity" target="_blank">Ethics and Cybersecurity</a></li>
+    <li><a href="https://github.com/lycaleynes/Legal-Analysis" target="_blank">Legal Analysis</a> - Ensured compliance, reduced threats, and created disaster recovery plans.</li> 
+    <li><a href="https://github.com/lycaleynes/Ethics-and-Cybersecurity" target="_blank">Ethics and Cybersecurity</a> - Analyzed ethical security issues and created a training plan to raise awareness and prevent risks.</li>
   </ul>
 </details>
 
