@@ -11,6 +11,13 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 <h2>👩🏻‍💻 Cybersecurity Projects:</h2>
 
 <details>
+  <summary><b>Homelab</b></summary>
+  <ul>
+    <li><a href="https://github.com/lycaleynes/Helpdesk-Homelab" target="_blank">Helpdesk Homelab</a> - Guide for setting up and managing a Windows Server 2016 environment using VirtualBox.</li> 
+  </ul>
+</details>
+
+<details>
   <summary><b>Legal and Ethical Analysis</b></summary>
   <ul>
     <li><a href="https://github.com/lycaleynes/Legal-Analysis" target="_blank">Legal Analysis</a> - Ensured compliance, reduced threats, and created disaster recovery plans.</li> 
