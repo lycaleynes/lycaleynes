@@ -14,6 +14,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
   <summary><b>Helpdesk</b></summary>
   <ul>
     <li><a href="https://github.com/lycaleynes/Helpdesk-Homelab" target="_blank">Helpdesk Homelab</a> - Guide for setting up and managing a Windows Server 2016 environment using VirtualBox.</li> 
+    <li><a href="https://github.com/lycaleynes/Jira" target="_blank">Jira</a> - Guide for installing and setting up a free Jira ticketing system using Atlassian’s free tier.</li> 
   </ul>
 </details>
 
