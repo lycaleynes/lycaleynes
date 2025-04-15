@@ -20,15 +20,7 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 </details>
 
 <details>
-  <summary><b>Legal and Ethical Analysis</b></summary>
-  <ul>
-    <li><a href="https://github.com/lycaleynes/Legal-Analysis" target="_blank">Legal Analysis</a> - Ensured compliance, reduced threats, and created disaster recovery plans.</li> 
-    <li><a href="https://github.com/lycaleynes/Ethics-and-Cybersecurity" target="_blank">Ethics and Cybersecurity</a> - Analyzed ethical security issues and created a training plan to raise awareness and prevent risks.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Security Tools</b></summary>
+  <summary><b>Security Tools & Techniques</b></summary>
   <ul>
     <li><a href="https://github.com/lycaleynes/Nmap" target="_blank">Nmap</a> - Used Nmap to scan a network, identified key vulnerabilities, and recommended security improvements.</li>
     <li><a href="https://github.com/lycaleynes/Wireshark" target="_blank">Wireshark</a> - Analyzed network traffic with Wireshark and recommended security fixes.</li>
@@ -39,23 +31,20 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 </details>
 
 <details>
-  <summary><b>Security Planning</b></summary>
+  <summary><b>Security Strategy & Governance</b></summary>
   <ul>
     <li><a href="https://github.com/lycaleynes/WLAN-and-Mobile-Security-Plan" target="_blank">WLAN and Mobile Security Plan</a> - Identified mobile risks and proposed fixes.</li>
+    <li><a href="https://github.com/lycaleynes/Legal-Analysis" target="_blank">Legal Analysis</a> - Ensured compliance, reduced threats, and created disaster recovery plans.</li> 
+    <li><a href="https://github.com/lycaleynes/Ethics-and-Cybersecurity" target="_blank">Ethics and Cybersecurity</a> - Analyzed ethical security issues and created a training plan to raise awareness and prevent risks.</li>
+    <li><a href="https://github.com/lycaleynes/Analysis-Response" target="_blank">Analysis Response</a> - Assessed a security incident and developed a response plan.</li>
+    <li><a href="https://github.com/lycaleynes/Capstone" target="_blank">Email & MFA Security Plan</a> - Simulated project using Mimecast and Duo to reduce phishing and improve authentication.</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>Investigations</b></summary>
+  <summary><b>Digital Forensics & Investigation</b></summary>
   <ul>
     <li><a href="https://github.com/lycaleynes/Investigative-Plan-of-Action" target="_blank">Investigative Plan of Action</a> - Created a digital forensics plan to guide evidence analysis in an investigation.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Incident Response</b></summary>
-  <ul>
-    <li><a href="https://github.com/lycaleynes/Analysis-Response" target="_blank">Analysis Response</a> - Assessed a security incident and developed a response plan.</li>
   </ul>
 </details>
  
