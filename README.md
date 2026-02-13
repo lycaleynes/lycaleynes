@@ -62,9 +62,3 @@ Hi there! My name is Lyconia but I prefer to be called Lyca. If you're unsure ho
 [![AWS](https://img.shields.io/badge/Amazon-AWS_Certified_Cloud_Practitioner-CC5500?style=for-the-badge)](https://www.credly.com/badges/751248f5-ddf0-4fac-b43f-e4845d6027e3)
 [![Azure](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0089D6?style=for-the-badge)](https://learn.microsoft.com/en-us/users/lyconialeynes-7181/credentials/f1a2a6e8ebffa7c1)
 [![Linux Essentials](https://img.shields.io/badge/LPI-Linux_Essentials-FFA000?style=for-the-badge)](https://www.credly.com/badges/22c578b6-0bce-4d15-95df-5dccc38878bf)
-
-<h2> 🤳🏻 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/lycaleynes
